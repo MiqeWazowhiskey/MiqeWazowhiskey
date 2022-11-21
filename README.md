@@ -1,9 +1,9 @@
 Hi 👋 My name is Ali Kağan
 ==========================
 
-* 🌍  I'm based in Antalya
 * 🖥️  My portfolio at [Portfolio](http://kaanyble.com)
 * ✉️  Get in touch with me [contact@kaanyble.com](mailto:contact@kaanyble.com)
+* 👨‍💻  Student (Akdeniz University)
 
 ### Skills
 
