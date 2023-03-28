@@ -20,6 +20,8 @@ Hi 👋 My name is Ali Kağan
 <a href="https://expressjs.com" target="_blank" rel="noreferrer" style={{color:'white'}}> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,html,tailwind,express,firebase,java,&perline=3)](https://skillicons.dev)
+
 
 ### Contact
 
