@@ -7,7 +7,7 @@ Hi 👋 My name is Ali Kağan
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,tailwind,vite,firebase,java,&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,tailwind,vite,firebase,java,&perline=9)](https://skillicons.dev)
 
 
 ### Contact
