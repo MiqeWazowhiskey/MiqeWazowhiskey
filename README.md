@@ -5,9 +5,9 @@ Hi 👋 My name is Ali Kağan
 * ✉️  Get in touch with me [contact@kaanyble.com](mailto:contact@kaanyble.com)
 * 👨‍💻  Student (Akdeniz University)
 
-### Skills 
+### My Skills and Current Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,tailwind,vite,firebase,java,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,nodejs,typescript,javascript,html,tailwind,firebase,java,&perline=9)](https://skillicons.dev)
 
 
 ### Contact
