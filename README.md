@@ -10,7 +10,7 @@ Hi 👋 My name is Ali Kağan
 [![My Skills](https://skillicons.dev/icons?i=react,vite,postgresql,typescript,javascript,mysql,spring,angular,html,tailwind,firebase,java,&perline=6)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiqeWazowhiskey&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contact
