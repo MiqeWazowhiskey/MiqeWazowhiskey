@@ -1,9 +1,8 @@
 Hi 👋 My name is Ali Kağan
 ==========================
 
-* 🖥️  
 * ✉️  Get in touch with me [contact@kaanyble.com](mailto:contact@kaanyble.com)
-* 👨‍💻  Student (Akdeniz University)
+
 
 ### My Skills and Current Tools
 
